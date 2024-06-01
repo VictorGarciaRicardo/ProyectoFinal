@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.contenedor{
+    border: 3px solid purple;
+    text-align: center;
+    float: left;
+    margin: auto;
+    display: inline-block
+
+}
+
+.CajaImagen{
+    border: 3px solid red;
+
+}
+
+.cajaTexto{
+    border: 3px solid blue;
+}
